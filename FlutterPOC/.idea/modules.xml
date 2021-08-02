@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FlutterPOC.iml" filepath="$PROJECT_DIR$/.idea/modules/FlutterPOC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FlutterPOC.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FlutterPOC.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1076835141/FlutterPOC.flutter.iml" filepath="$PROJECT_DIR$/.idea/modules/1076835141/FlutterPOC.flutter.iml" />
+    </modules>
+  </component>
+</project>
